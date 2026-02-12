@@ -8,4 +8,4 @@ By leveraging advanced AI models, the application analyzes product details — i
 
 ### 🎥 Demo Video
 
-<video src="./demo-video.mp4" controls width="640"></video>
+<video src="https://github.com/ibrarmunircoder/AI-blog-writer-scheduler/blob/main/demo-video.mp4" controls width="640"></video>
