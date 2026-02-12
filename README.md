@@ -8,4 +8,4 @@ By leveraging advanced AI models, the application analyzes product details — i
 
 ### 🎥 Demo Video
 
-![Watch the Demo](https://youtu.be/NP5wkcgmq-A)
+![Watch the Demo](./demo-video.mp4)
